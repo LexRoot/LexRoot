@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hola, soy Guillermo 👋
 
-<!--
-**LexRoot/LexRoot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Graduado en Derecho, con doble máster en Abogacía y Procura + Derecho Digital (UNIR).
 
-Here are some ideas to get you started:
+Me muevo entre el Derecho, la automatización y la IA, y estoy aprendiendo ciberseguridad en Hack The Box (usuario: LexRoot).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## En qué trabajo
+
+**Automatización:** procesos y flujos con IA.
+
+**Cumplimiento:** RGPD e IA aplicada al cumplimiento.
+
+**Ciberseguridad:** laboratorio práctico en [security-lab](https://github.com/LexRoot/security-lab).
+
+## Contacto
+
+[LinkedIn](https://www.linkedin.com/in/guillermo-gonzalez-callero/) | [Hack The Box](https://profile.hackthebox.com/profile/01a1777c-1c79-7096-8ac5-04f72f35780a)
