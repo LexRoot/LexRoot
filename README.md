@@ -15,3 +15,5 @@ Me muevo entre el Derecho, la automatización y la IA, y estoy aprendiendo ciber
 ## Contacto
 
 [LinkedIn](https://www.linkedin.com/in/guillermo-gonzalez-callero/) | [Hack The Box](https://profile.hackthebox.com/profile/01a1777c-1c79-7096-8ac5-04f72f35780a)
+
+**Divulgación:** [Pregúntale a Bit](https://www.youtube.com/@preguntaleabit), vídeos cortos sobre Derecho digital en YouTube, TikTok e Instagram.
